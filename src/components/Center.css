@@ -1,0 +1,10 @@
+.center {
+    flex-grow: 2;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center-title {
+    font-size: 64px;
+}

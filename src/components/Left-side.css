@@ -1,0 +1,30 @@
+.leftside {
+    
+    background: #6a61fb;
+    display: flex;
+    flex-direction: column;
+}
+.leftside-title {
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    color: aqua;
+}
+.navbar {
+    
+    margin: 0;
+    padding: 0;
+
+}
+.navbar-item {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+a {
+    text-decoration: none;
+}
